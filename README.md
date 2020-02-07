@@ -1,0 +1,3 @@
+# Codewars - Competitve Coding Practice in *JavaScript*
+
+This repo is where I practice competitve programming in JavaScript. The Directories are divided into the ranking system of <a href="https://www.codewars.com/">Codewars</a>. 8 kyu has the simple problems and as the number of kyu decreases the level of difficulties increases. Every .js file has the question/instruction to solve the problem commented at the top followed by the solution.
