@@ -12,8 +12,7 @@ Get rid of them. Only the ending ones.
 Zero alone is fine, don't worry about it. Poor guy anyway
 */
 const noBoringZeros = n => {
-	if (n === 0) return n;
-	while (n % 10 === 0) n /= 10;
+	while (n % 10 === 0 && n !== 0) n /= 10;
 	return n;
 };
 console.log(noBoringZeros(1450));
